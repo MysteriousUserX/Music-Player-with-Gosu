@@ -1,0 +1,59 @@
+5
+Favorites
+User
+artwork/playlist.jpg
+0
+Demon Days 
+Gorillaz
+artwork/demon_days.jpg
+6
+Intro
+Tracks/Intro.mp3
+Last Living Souls
+Tracks/Last_Living_Souls.mp3
+Kids with Guns
+Tracks/Kids_with_Guns.mp3
+O Green World
+Tracks/O_Green_World.mp3
+Dirty Harry
+Tracks/Dirty_Harry.mp3
+Feel Good Inc.
+Tracks/Feel_Good_Inc.mp3
+Beethoven's Greatest Hits
+Ludwig Van Beethoven
+artwork/beethoven.png
+5
+Final Movement
+tracks/Final_Movement.mp3
+First Movement (Allegro Con Brio)
+Tracks/First_Movement_Allegro_Con_Brio.mp3
+Minuet In G
+Tracks/Minuet_In_G.mp3
+Für Elise
+Tracks/Für_Elise.mp3
+Turkish March
+Tracks/Turkish_March.mp3
+Trails of Cold Steel
+Falcom Sound Team jdk
+artwork/sen_no_kiseki.png
+4
+Belief
+Tracks/Belief.mp3
+Dining Bar "F"
+Tracks/dining_bar_f.mp3
+The Decisive Collision
+Tracks/the_decisive_collision.mp3
+Atrocious Raid
+Tracks/atrocious_raid.mp3
+Dangerous
+Michael Jackson
+artwork/Dangerous.jpg
+4
+Jam
+Tracks/Jam.mp3
+Heal The World
+Tracks/heal_the_world.mp3
+Black Or White
+Tracks/black_or_white.mp3
+Dangerous
+Tracks/Dangerous.mp3
